@@ -39,6 +39,7 @@ address {
   font-style: normal;
 }
 .header-address {
+  font-style: normal;
   list-style: none;
 }
 .header-address-item a {
