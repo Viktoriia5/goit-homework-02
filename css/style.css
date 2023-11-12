@@ -39,6 +39,9 @@ body {
 .header-address {
   list-style: none;
 }
+.address {
+  font-style: normal;
+}
 /*.header-address-item a {
   font-style: normal;
   color: #434455;
