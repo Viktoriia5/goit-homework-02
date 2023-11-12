@@ -35,9 +35,7 @@ body {
 .list-item a:focus {
   color: #404bbf;
 }
-address {
-  font-style: normal;
-}
+
 .header-address {
   font-style: normal;
   list-style: none;
