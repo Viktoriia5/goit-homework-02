@@ -91,10 +91,11 @@ body {
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5; /* 150% */
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
 }
 
 /* TEAM SECTION  */
+
 .team-list {
   list-style: none;
 }
@@ -127,7 +128,7 @@ body {
 }
 
 /*  PORTFOLIO SECTION */
-.team-title,
+
 .portfolio-title {
   color: #2e2f42;
   text-align: center;
